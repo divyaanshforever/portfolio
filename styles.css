@@ -1,0 +1,78 @@
+body{
+    background-color:#000000;
+    font-family: Satoshi;
+    color:#fdf0d5;
+    margin: 0vh 10vw;
+}
+*{
+    text-decoration: none;
+}
+.navbar{
+    color: #fdf0d5;
+    margin-bottom: -5vh;
+    margin-top: 3vh;
+}
+
+.navdiv{
+    color: #fdf0d5;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.point{
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.hero-sec{
+    text-align:left;
+    font-family: 'Clash Display', sans-serif;
+    font-size: 2.5em;
+}
+
+.work-desc{
+    font-family: Montserrat , sans-serif;
+    font-weight: 700 ;
+    font-size: 0.8em;
+}
+
+.work-title{
+    font-size: 1.3em;
+    margin-bottom: -3vh;
+    color: #a2f3ff;
+}
+
+.name-title{
+    margin-bottom: -6vh;
+    word-spacing: 0.8px;
+}
+
+.logoa{
+    font-family: 'Clash Display', sans-serif;
+    font-size: 25px;
+    color: #fdf0d5;
+}
+
+a {
+    color: #fdf0d5;
+}
+
+li{
+    font-family: 'Cabinet Grotesk', sans-serif;
+    font-size: 20px;
+}
+
+.heading {
+    font-family: Lexend Deca , sans-serif;
+    color: #567a9b;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Cabinet Grotesk';
+}
+
+.made{
+    margin-bottom: -13px;
+}
